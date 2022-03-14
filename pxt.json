@@ -1,7 +1,8 @@
 {
     "name": "ME66",
     "version": "0.0.0",
-    "description": "",
+    "description": "ME66",
+    "license": "mit",
     "dependencies": {
         "core": "*",
         "radio": "*",
@@ -10,9 +11,7 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts",
-	"_locales/zh-cn/newland-strings.json",
-        "_locales/zh-tw/newland-strings.json"
+        "main.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -21,6 +20,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj",
-    "icon": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.91jm.com%2F2015%2F11%2F150D2BE826C.jpg&refer=http%3A%2F%2Fimg.91jm.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1631080775&t=6c96fde032c13432e31a9301df3ac779"
+    "preferredEditor": "blocksprj"
 }
